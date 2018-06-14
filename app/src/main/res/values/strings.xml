@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Retrofit Example</string>
+    <!-- Loggin -->
+    <string name="login_signup">Regístrate</string>
+    <string name="login_acceder">Acceder</string>
+    <string name="login_recordar">Recordar datos</string>
+    <string name="login_email">Usuario</string>
+    <string name="login_password">Contraseña</string>
+
+    <string name="option_yes">Si</string>
+    <string name="tvLugar">Lugar</string>
+    <string name="tvNoticia">Noticia</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="app_login">Login</string>
+    <string name="app_registrar">Registrar Usuario</string>
+    <string name="app_noticia">Nueva Noticia</string>
+    <string name="app_listar">Noticias</string>
+</resources>
